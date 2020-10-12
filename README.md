@@ -1,9 +1,9 @@
-# SAGAN
+# Distorted underwater image reconstruction
 Pytorch implementation of the paper Distorted underwater image reconstruction for an autonomous underwater vehicle based on a self-attention generative adversarial network
 
 Our network takes a distorted underwater image as an input and procude the corresponding sharp estimate. The model we use is GAN framework with group normalization + attention mechanism + RaLSGAN based on the conv3_3 layer before activation in the pre-trained VGG-16. Such architecture also gives good results on other image-to-image translation problems (deblurring, colorization, super resolution, inpainting, dehazing etc.)
 
-# Distorted-underwater-images
+# Data sets
 The datasets are from http://www.image-net.org/ and http://cseweb.ucsd.edu/~viscomp/projects/WACV18Water/. 
 
 To test the pretrained model, run: python main.py --test --exp-name both_L1VGGAdv3_3before_reluAteRa_gn2
