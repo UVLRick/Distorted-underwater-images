@@ -14,7 +14,7 @@ If you find our code helpful in your research or work please cite the paper.
 }
 
 @inproceedings{2018,
-  title={"Learning to See through Turbulent Water",},
+  title={Learning to See through Turbulent Water},
   author={ Kriegman, D },
   booktitle={IEEE Conference on Computer Vision & Pattern Recognition},
   year={2018},
