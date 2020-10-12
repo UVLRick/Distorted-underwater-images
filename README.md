@@ -3,10 +3,8 @@ The datasets are from http://www.image-net.org/ and http://cseweb.ucsd.edu/~visc
 
 To test the pretrained model, run: python main.py --test --exp-name both_L1VGGAdv3_3before_reluAteRa_gn2
 
-If you find our code helpful in your research or work please cite the paper.
-
-
 # Citation
+If you find our code helpful in your research or work please cite the paper.
 @article{2020,
   title = {Distorted underwater image reconstruction for an autonomous underwater vehicle based on a self-attention generative adversarial network},
   author = {Tengyue Li, Qianqian Yang, Shenghui Rong, Long Chen, and Bo He},
