@@ -20,6 +20,6 @@ If you find our code helpful in your research or work please cite the paper.
   year={2018},
 }
 
+# Acknowledgments
 Code borrows heavily from  "Learning to See through Turbulent Water" WACV 2018
-
 The authors thank Dr. Zhen Zhang and Dr. Zak Murez for constructive discussions.
