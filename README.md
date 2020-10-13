@@ -24,10 +24,10 @@ If you find our code helpful in your research or work please cite the paper.
   year = 2020
 }
 
-@inproceedings{2018,
-  title={Learning to See through Turbulent Water},
-  author={ Kriegman, D },
-  booktitle={IEEE Conference on Computer Vision & Pattern Recognition},
+@inproceedings{2018Learning,
+  title={Learning to See Through Turbulent Water},
+  author={Zhengqin Li，Zak Murez，David Kriegman，Ravi Ramamoorthi，Manmohan Chandraker},
+  booktitle={IEEE Winter Conference on Applications of Computer Vision},
   year={2018},
 }
 
