@@ -1,5 +1,5 @@
 # Distorted underwater image reconstruction
-Pytorch implementation of the paper Distorted underwater image reconstruction for an autonomous underwater vehicle based on a self-attention generative adversarial network
+Pytorch implementation of the paper "Distorted underwater image reconstruction for an autonomous underwater vehicle based on a self-attention generative adversarial network"
 
 Our network takes a distorted underwater image as an input and procude the corresponding sharp estimate. The model we use is GAN framework with group normalization + attention mechanism + RaLSGAN based on the conv3_3 layer before activation in the pre-trained VGG-16. Such architecture also gives good results on other image-to-image translation problems (deblurring, colorization, super resolution, inpainting, dehazing etc.)
 
@@ -32,4 +32,4 @@ If you find our code helpful in your research or work please cite the paper.
 }
 
 # Acknowledgments
-Code borrows heavily from  "Learning to See through Turbulent Water" WACV 2018. The authors thank Dr. Zhen Zhang and Dr. Zak Murez for constructive discussions.
+Code borrows heavily from  "Learning to See through Turbulent Water" WACV 2018. The authors thank Dr. Zak Murez for constructive discussions.
