@@ -10,7 +10,7 @@ Pytorch
 
 To test the pretrained model, run: python main.py --test --exp-name both_L1VGGAdv3_3before_reluAteRa_gn2
 
-# Data sets
+# Datasets
 The datasets are from http://www.image-net.org/ and http://cseweb.ucsd.edu/~viscomp/projects/WACV18Water/. 
 
 # Citation
@@ -32,4 +32,4 @@ If you find our code helpful in your research or work please cite the paper.
 }
 
 # Acknowledgments
-Code borrows heavily from  "Learning to See through Turbulent Water" WACV 2018. The authors thank Dr. Zak Murez for constructive discussions.
+The code borrows heavily from  "Learning to See through Turbulent Water" WACV 2018. The authors thank Dr. Zak Murez for constructive discussions.
